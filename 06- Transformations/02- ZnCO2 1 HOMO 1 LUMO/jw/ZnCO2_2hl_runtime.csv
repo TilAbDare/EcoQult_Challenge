@@ -1,0 +1,10 @@
+﻿runtime_single_vqe (min)
+0.013237067
+runtime_single_numpy (min)
+0.001102092
+runtime_single_rhf (min)
+0.008572326
+runtime_single_ccsd (min)
+0.060002305
+runtime_full_vqe (min)
+1.532527073
