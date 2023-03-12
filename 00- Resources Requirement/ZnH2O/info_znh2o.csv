@@ -1,0 +1,18 @@
+﻿2 HOMOLUMO,,,,,,,,,
+#qubits,#Fermionic operator terms,#Pauli operator lines,#Depth,#Spin orbitals,#Spatial orbitals,#particles,Register Length,#Ham_gates,Runtime(min)
+4,36,15,15,4,2,1,4,60,0.000284913
+4 HOMOLUMO,,,,,,,,,
+#qubits,#Fermionic operator terms,#Pauli operator lines,#Depth,#Spin orbitals,#Spatial orbitals,#particles,Register Length,#Ham_gates,Runtime(min)
+8,564,193,193,8,4,2,8,1544,0.003493584
+6 HOMOLUMO,,,,,,,,,
+#qubits,#Fermionic operator terms,#Pauli operator lines,#Depth,#Spin orbitals,#Spatial orbitals,#particles,Register Length,#Ham_gates,Runtime(min)
+12,3164,1079,1079,12,6,3,12,12948,0.019174839
+8 HOMOLUMO,,,,,,,,,
+#qubits,#Fermionic operator terms,#Pauli operator lines,#Depth,#Spin orbitals,#Spatial orbitals,#particles,Register Length,#Ham_gates,Runtime(min)
+16,8808,3069,3069,16,8,4,16,49104,0.055290476
+10 HOMOLUMO,,,,,,,,,
+#qubits,#Fermionic operator terms,#Pauli operator lines,#Depth,#Spin orbitals,#Spatial orbitals,#particles,Register Length,#Ham_gates,Runtime(min)
+20,22776,7987,7987,20,10,5,20,159740,0.150462544
+Full,,,,,,,,,
+#qubits,#Fermionic operator terms,#Pauli operator lines,#Depth,#Spin orbitals,#Spatial orbitals,#particles,Register Length,#Ham_gates,Runtime(min)
+50,808706,284864,284864,50,25,19,50,14243200,5.449897612
